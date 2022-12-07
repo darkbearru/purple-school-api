@@ -1,0 +1,24 @@
+{
+  "name": "purple-school-api",
+  "version": "0.0.1",
+  "description": "API Project from training at PurpleSchool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkbearru/purple-school-api.git"
+  },
+  "keywords": [
+    "api",
+    "express"
+  ],
+  "author": "Alexey Abramenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkbearru/purple-school-api/issues"
+  },
+  "homepage": "https://github.com/darkbearru/purple-school-api#readme"
+}
